@@ -21,6 +21,7 @@ This code was developed before access to prior GLMsingle analyses ran by a train
 | `run.py` | resumable batch over all subjects x hemispheres |
 | `one_subject_test.py` | one-subject dry run for timing + debugging |
 
+<(-^,^-)=b
 
 ## Run
 Can either bash, but I reccommend running them one by one for debugging reasons.
