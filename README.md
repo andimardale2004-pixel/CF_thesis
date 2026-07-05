@@ -5,6 +5,11 @@ from the SOMA motor-mimicry task, using S1 as the source region, and produces a
 whole-brain somatotopic body map rendered with pycortex.
 This code was developed before access to prior GLMsingle analyses ran by a trained master's student (Beta Weights)
 
+ _._     _,-'""`-._
+(,-.`._,'(       |\`-/|
+    `-.-' \ )-`( , o o)
+          `-    \`_`"'-
+
 ## Project layout
 |     File    |  What it does |
 |-<>-<>-<>-<>-|--<>-<>-<>-<>--|
