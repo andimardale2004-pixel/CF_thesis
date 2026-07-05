@@ -16,18 +16,6 @@ This code was developed before access to prior GLMsingle analyses ran by a train
 | `run.py` | resumable batch over all subjects x hemispheres |
 | `one_subject_test.py` | one-subject dry run for timing + debugging |
 
-## Setup (on macOS)
-1. Install **VSCode** and **Miniforge**.
-2. Create the project + environment:
-   ```bash
-   mkdir ~/(directoryname) && cd ~/(directoryname)    # then put these files here <('.'<)
-   conda create -n cf python=3.11 -y
-   conda activate cf
-   pip install -r requirements.txt
-   ```
-3. In VSCode: **Python: Select Interpreter** -> the `cf` env.
-4. Configure pycortex once: set its filestore to where your surfaces live and
-   confirm `python -c "import cortex; print(cortex.db.subjects)"` lists your subject.
 
 ## Run
 Can either bash, but I reccommend running them one by one for debugging reasons.
